@@ -1,6 +1,6 @@
 # DevOps-Assessment
 
-1. Clone the GitRepo in your local. ﻿
+1. Fork this GitRepo in your GitHub Account.
 2. Write a Dockerfile Nodejs for this project.
 3. Setup minikube in local or k8s cluster any cloud based (AWS, Azure or GCP).
 4. Setup jenkins in local or any Virtual Machine. 
