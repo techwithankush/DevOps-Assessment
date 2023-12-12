@@ -9,7 +9,7 @@
 7. Deploy an Ingress controller (e.g., Nginx, Envoy) in your Kubernetes cluster. Write an Ingress resource to map external traffic to the Node.js service.
 
 
-# Interview Demonstration:
+# Interview Demonstration
 
 During the interview, be prepared to demonstrate the entire CI/CD pipeline:
 1. Show that the CI/CD tool correctly triggers builds on code changes.
@@ -18,6 +18,6 @@ During the interview, be prepared to demonstrate the entire CI/CD pipeline:
 4. Confirm that the Ingress controller is correctly routing traffic to the Node.js service.
 
 
-# Note:
+# Note
 
 To expedite the interview process, avoid deleting any essential resources, such as EC2 instances, Kubernetes clusters, or Minikube instances, to ensure a smooth demonstration of the CI/CD pipeline.
